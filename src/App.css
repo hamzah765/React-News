@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+  display:flex;
+  width: 50%;
+  margin-left: 25%;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+img{
+ width: 300px;
+
+  
+}
+.sports{
+  color: black;
+  text-align: center;
+  padding: 5px;
+  height: 30px;
+}
+.card{
+  background-color: grey;
+  display: flex;
+  font-size: 30px;
+  padding: 0 10px;
+  margin-bottom: 0px;
+  
+  
+}
+p{
+  color: black;
+  display: flex;
+  background-color: lightgray;
+  width: 300px;
+}
+
+
+
+body{
+  background-color:black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div.card{
+  height: 300px;
+}
+h3{
+  text-decoration: underline;
+  text-decoration-color: lightgreen;
+  color: white;
+  font-size: 30px;
+}
+
